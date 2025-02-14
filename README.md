@@ -8,8 +8,8 @@ My name is Jiovani Bah, but most people call me Jio! **2025 Graduate**
 public class Jiovani {
   private int age = 22;
   private double relationshipYears = 2.5;
-  public String[] traits = new String[] { "Cool", "Very Cool", "The Coolest"};
-  public String[] hobbies = new String[] { "Chess" "Coding!", "Piano", "Gaming", "TV/Anime", "Working out" };
+  public String[] traits = new String[] {"Cool", "Very Cool", "The Coolest"};
+  public String[] hobbies = new String[] {"Chess" "Coding!", "Piano", "Gaming", "TV/Anime", "Working out"};
 
 }
 ```
