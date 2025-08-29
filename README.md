@@ -7,7 +7,8 @@ My name is Jiovani Bah, but most people call me Jio! **2025 Graduate**
 ```java
 public class Jiovani {
   private int age = 22;
-  private double yearsOfExpereince = 1.5;
+  private double yearsOfExpereinceSWE = 1.5;
+private double yearsOfExpereinceIT = 3;
   private double relationshipYears = 3;
   public String[] traits = new String[] {"Productive", "Organized", "Well Spoken"};
   public String[] hobbies = new String[] {"Chess", "Coding!", "Piano", "Gaming", "TV/Anime", "Working out"};
